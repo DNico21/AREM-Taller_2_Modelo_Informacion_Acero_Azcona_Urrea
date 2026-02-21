@@ -89,10 +89,9 @@ En el contexto del sector salud, los modelos ERD deben considerar trazabilidad, 
 Este enfoque es consistente con principios de Arquitectura Empresarial, donde el modelo de información debe reflejar el negocio y no la solución tecnológica.
 
 ## 📚 Referencias
-- [1] Chen, P. P.-S. (1976). *The Entity-Relationship Model—Toward a Unified View of Data*. ACM Transactions on Database Systems.
-- [2] Ministerio de Salud y Protección Social de Colombia. Resolución 2275 de 2023.
-- [3] Ministerio de Salud y Protección Social de Colombia. Resolución 558 de 2024.
-- [4] OMG. BPMN Specification. https://www.omg.org/spec/BPMN/
+- [1] Ministerio de Salud y Protección Social de Colombia. *Resolución 2275 de 2023*.
+- [2] Ministerio de Salud y Protección Social de Colombia. *Resolución 558 de 2024*.
+- [3] Fuente asistida por IA: ChatGPT, febrero 2026.
 
 ---
 
